@@ -1,0 +1,22 @@
+Janne menee kirjakauppaan. Hän etsii uutta romaania.
+<br>
+Myyjä: Hei, voinko auttaa?
+<br>
+Janne: Kiitos, mä vaan katselen.
+<br>
+Janne haluaa ensin katsoa kirjoja rauhassa. Hetken päästä hän kysyy apua myyjältä.
+<br>
+Janne: Anteeksi, onks tätä kirjaa äänikirjana?
+<br>
+Myyjä: Hetki, mä tarkistan… Joo, on. Tässä, ole hyvä.
+<br>
+Janne: Okei, kiitti. Entä onks tätä myös kovakantisena?
+<br>
+Myyjä: Ei valitettavasti.
+<br>
+Janne: Okei. Tota, missä kassapiste on?
+<br>
+Myyjä: Se on tuolla vasemmalla.
+<br>
+
+<br> Janne: Mä ottaisin tän kirjan. <br> Myyjä: Okei. Onks sulla meidän kanta-asiakaskortti? Sillä saa tänään 15 prosenttia alennusta. <br> Janne: Aijaa? Joo, on mulla. Tässä. <br> Myyjä: Kiitos. Tarvitsetko paperikassia? <br> Janne: Ei kiitos, mulla on oma reppu. <br> Myyjä: Se tekee 24,90 €. <br> Janne: Kiitos. <br> Myyjä: Kuittia? <br> Janne: Joo kiitos. <br> Myyjä: Näin on hyvä. Hyvää iltaa! <br> Janne: Kiitos, hei! <br>

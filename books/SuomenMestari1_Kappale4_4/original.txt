@@ -1,0 +1,10 @@
+Minä olen Matti. Olen naimisissa, ja minulla on vaimo nimeltä Leena. Meillä on yksi poika ja yksi tytär. Poikamme nimi on Pekka, ja tyttäremme nimi on Sanna.
+ <br>
+Leenan veli, eli minun enoni, asuu lähellä meitä. Hänen nimensä on Jukka. Hänellä on kaksi serkkua, jotka ovat samanikäisiä kuin Pekka. Me käymme usein heidän luonaan.
+ <br>
+Minun vanhempani, eli isä ja äiti, asuvat kauempana, mutta he tulevat aina jouluna meille. Isoisäni, eli ukki, ja isoäitini, eli mummo, ovat jo eläkkeellä. He tykkäävät viettää aikaa lastenlasten kanssa.
+ <br>
+Minulla on myös koira, joka on osa meidän uusperhettä.
+ <br>
+Minä olen tällä hetkellä töissä, mutta Leena on opiskelija. Hän opiskelee yliopistossa, ja meillä on paljon tekemistä lasten kanssa.
+ <br>
