@@ -1,6 +1,8 @@
 en[Hei]="Hi"
 en[Onko]="Is (there)"
 en[tämä]="this"
+en[suomen]="Finnish"
+en[kurssi]="course"
 en[suomen kurssi]="Finnish course"
 en[Joo]="Yes"
 en[Kiva]="Nice"
