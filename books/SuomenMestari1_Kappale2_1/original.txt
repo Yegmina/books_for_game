@@ -1,5 +1,3 @@
-Sure! Here's the formatted text with `<br>` and a space at the end of each line:
-
 Kurssi loppuu kello 20. Matti, Liisa ja Pekka menevät kioskille ostamaan jäätelöä. Pekka kysyy myyjältä: "Hei, mitä jätski maksaa?" Myyjä vastaa: "Yksi pallo maksaa 3 euroa ja kaksi palloa 5 euroa." Pekka valitsee kaksi palloa suklaata, ja Matti ottaa kaksi palloa, vaniljaa ja mansikkaa. He istuvat puistossa ja nauravat. <br>  
 <br>  
 Matti kysyy Liisalta: "Minkämaalainen sinä olet?" Liisa vastaa: "Minä olen suomalainen." Sitten Matti kertoo: "Minä olen ukrainalainen ja puhun ukrainaa." Liisa ihmettelee: "Ai jaa, puhutko myös suomea?" Matti nyökkää ja sanoo: "Kyllä, mutta vain vähän." <br>  
