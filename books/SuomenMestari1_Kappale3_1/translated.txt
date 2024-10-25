@@ -1,0 +1,262 @@
+Here’s the translation dictionary for each word in the text, translated one by one:
+
+
+
+**Finnish to English Dictionary:**
+
+en[Mikko] = "Mikko" (name)
+en[on] = "is"
+en[Pedron] = "Pedro's" (possessive form)
+en[hyvä] = "good"
+en[ystävä] = "friend"
+en[Mikko] = "Mikko" (name)
+en[on] = "is"
+en[suomalainen] = "Finnish"
+en[mutta] = "but"
+en[hän] = "he"
+en[asuu] = "lives"
+en[nyt] = "now"
+en[São] = "São" (as in São Paulo)
+en[Paulossa] = "Paulo" (city name)
+en[Brasiliassa] = "in Brazil"
+en[Tänään] = "today"
+en[Pedro] = "Pedro" (name)
+en[soittaa] = "calls"
+en[Mikolle] = "to Mikko"
+en[videopuhelun] = "video call"
+
+
+
+en[Pedro] = "Pedro" (name)
+en[Moi] = "Hi"
+en[Mikko] = "Mikko" (name)
+en[Oletko] = "Are you"
+en[jo] = "already"
+en[töissä] = "at work"
+  
+
+
+en[Mikko] = "Mikko" (name)
+en[No] = "Well"
+en[mo!] = "Hi!"
+en[En] = "Not"
+en[vielä] = "yet"
+en[Kello] = "Time"
+en[on] = "is"
+en[täällä] = "here"
+en[vasta] = "only"
+en[puoli] = "half"
+en[kahdeksan] = "eight"
+  
+
+
+en[Pedro] = "Pedro" (name)
+en[Ai] = "Oh"
+en[niin] = "right"
+en[totta] = "true"
+en[No] = "So"
+en[mitä] = "what"
+en[kuuluu] = "is up?"
+
+
+
+en[Mikko] = "Mikko" (name)
+en[Ihan] = "Quite"
+en[hyvää] = "well"
+en[mutta] = "but"
+en[sää] = "weather"
+en[on] = "is"
+en[nyt] = "now"
+en[huono] = "bad"
+en[Tänäänkin] = "Even today"
+en[sataa] = "rains"
+en[kaatamalla] = "heavily"
+en[ja] = "and"
+en[on] = "is"
+en[tuulista] = "windy"
+
+
+
+en[Pedro] = "Pedro" (name)
+en[Aijaa] = "Oh, really"
+en[Täällä] = "Here"
+en[aurinko] = "sun"
+en[paistaa] = "shines"
+en[ja] = "and"
+en[on] = "is"
+en[tosi] = "really"
+en[lämmin] = "warm"
+en[+25] = "+25"
+en[astetta] = "degrees"
+en[Yöllä] = "At night"
+en[on] = "it is"
+en[niin] = "so"
+en[valoisaa] = "bright"
+en[että] = "that"
+en[on] = "is"
+en[vaikea] = "hard"
+en[nukkua] = "to sleep"
+
+
+
+en[Mikko] = "Mikko" (name)
+en[Heh] = "Haha"
+en[Suomen] = "Finland's"
+en[valoisat] = "bright"
+en[kesäyöt] = "summer nights"
+en[Nauti] = "Enjoy"
+en[nyt] = "now"
+en[marraskuussa] = "in November"
+en[on] = "is"
+en[sitten] = "then"
+en[pimeää] = "dark"
+
+
+
+en[Pedro] = "Pedro" (name)
+en[No] = "Well"
+en[joo] = "yes"
+en[niin] = "so"
+en[kuulemma] = "I’ve heard"
+
+
+
+en[Mikko] = "Mikko" (name)
+en[Mitä] = "What"
+en[muuta] = "else"
+en[kuuluu] = "is up?"
+en[Onko] = "Do you have"
+en[sinulla] = "you"
+en[työpaikka] = "job"
+
+
+
+en[Pedro] = "Pedro" (name)
+en[Ei] = "Not"
+en[vielä] = "yet"
+en[Minä] = "I"
+en[etsin] = "am looking for"
+en[töitä] = "work"
+en[mutta] = "but"
+en[se] = "it"
+en[ei] = "isn't"
+en[ole] = "is"
+en[helppoa] = "easy"
+en[Olen] = "I am"
+en[nyt] = "now"
+en[suomen] = "Finnish"
+en[kurssilla] = "in a course"
+
+
+
+en[Mikko] = "Mikko" (name)
+en[Hieno] = "Great"
+en[juttu] = "thing"
+en[Millainen] = "What kind"
+en[kurssi] = "course"
+en[on] = "is"
+
+
+
+en[Pedro] = "Pedro" (name)
+en[Se] = "It"
+en[on] = "is"
+en[tosi] = "really"
+en[hyvä] = "good"
+en[Opettaja] = "Teacher"
+en[on] = "is"
+en[mukava] = "nice"
+en[ja] = "and"
+en[minun] = "my"
+en[ystävät] = "friends"
+en[Olga] = "Olga" (name)
+en[ja] = "and"
+en[Alex] = "Alex" (name)
+en[ovat] = "are"
+en[samalla] = "same"
+en[kurssilla] = "course"
+en[Kurssi] = "Course"
+en[on] = "is"
+en[maanantaisin] = "on Mondays"
+en[keskiviikkoisin] = "on Wednesdays"
+en[ja] = "and"
+en[torstaisin] = "on Thursdays"
+
+
+
+en[Mikko] = "Mikko" (name)
+en[Kolme] = "Three"
+en[kertaa] = "times"
+en[viikossa] = "a week"
+en[Ohhoh] = "Wow"
+en[Kohta] = "Soon"
+en[sinä] = "you"
+en[puhut] = "speak"
+en[suomea] = "Finnish"
+en[yhtä] = "as"
+en[hyvin] = "well"
+en[kuin] = "as"
+en[minä] = "I"
+
+
+
+en[Pedro] = "Pedro" (name)
+en[Heh] = "Haha"
+en[Niin] = "So"
+en[varmaan] = "surely"
+
+
+
+en[Mikko] = "Mikko" (name)
+en[Asutteko] = "Do you still live"
+en[vielä] = "still"
+en[Hannan] = "Hanna's" (name)
+en[opiskelijaasunnossa] = "student apartment"
+en[Espoossa] = "in Espoo"
+
+
+
+en[Pedro] = "Pedro" (name)
+en[Joo] = "Yes"
+en[mutta] = "but"
+en[me] = "we"
+en[muutamme] = "are moving"
+en[syyskuussa] = "in September"
+en[Meidän] = "Our"
+en[uusi] = "new"
+en[koti] = "home"
+en[on] = "is"
+en[Helsingissä] = "in Helsinki"
+
+
+
+en[Mikko] = "Mikko" (name)
+en[Kuulostaa] = "Sounds"
+en[hyvältä] = "good"
+en[Mutta] = "But"
+en[hei] = "hey"
+en[nyt] = "now"
+en[minun] = "I"
+en[täytyy] = "must"
+en[lähteä] = "leave"
+en[töihin] = "to work"
+en[Terveisiä] = "Greetings"
+
+
+en[Hannalle] = "to Hanna"
+
+
+
+en[Pedro] = "Pedro" (name)
+en[Kiitos] = "Thanks"
+en[minä] = "I"
+en[kerron] = "will tell"
+en[Moikka] = "Bye"
+
+
+
+en[Mikko] = "Mikko" (name)
+en[Moi] = "Bye"
+
+
+

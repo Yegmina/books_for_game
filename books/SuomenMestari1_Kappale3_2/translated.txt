@@ -1,0 +1,61 @@
+
+en[Aamu] = "Morning"  
+en[Suomessa] = "in Finland"  
+en[Tänään] = "Today"  
+en[on] = "is"  
+en[kaunis] = "beautiful"  
+en[ilma] = "weather"  
+en[Aurinko] = "Sun"  
+en[paistaa] = "shines"  
+en[ja] = "and"  
+en[lämmin] = "warm"  
+en[Ulkona] = "Outside"  
+en[+20] = "+20"  
+en[astetta] = "degrees"  
+en[Mutta] = "but"  
+en[ei] = "not"  
+en[sada] = "rains"  
+en[vettä] = "water"  
+en[Minä] = "I"  
+en[kävelen] = "walk"  
+en[puistossa] = "in the park"  
+en[aamulla] = "in the morning"  
+
+
+
+en[Minun] = "My"  
+en[syntymäpäivä] = "birthday"  
+en[elokuussa] = "in August"  
+en[pidän] = "like"  
+en[kesästä] = "summer"  
+
+en[Kesällä] = "In summer"  
+en[usein] = "often"  
+en[kuuma] = "hot"  
+en[valoisaa] = "bright"  
+
+
+en[Talvella] = "In winter"  
+en[kylmä] = "cold"  
+en[pimeää] = "dark"  
+
+
+
+en[sataa] = "it snows"  
+en[lunta] = "snow"  
+en[-15] = "-15"  
+
+en[Huomenna] = "Tomorrow"  
+en[keskiviikko] = "Wednesday"  
+
+en[Keskiviikkona] = "On Wednesday"  
+en[menen] = "go"  
+en[kouluun] = "to school"  
+en[aamupäivällä] = "in the morning"  
+
+
+en[Illalla] = "In the evening"  
+en[katson] = "watch"  
+en[televisiota] = "television"  
+en[juon] = "drink"  
+en[teetä] = "tea"  
