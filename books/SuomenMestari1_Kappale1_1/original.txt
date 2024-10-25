@@ -1,18 +1,18 @@
-Tiina: Hei! Onko tämä suomen kurssi?
-Mikko: Joo, tämä on Suomi 1.
-Tiina: Kiva! Onko tämä paikka vapaa?
-Mikko: On.
-Tiina: Minä olen Tiina. Kuka sinä olet?
-Mikko: Minä olen Mikko. Hauska tutustua!
-Tiina: Kiitos, samoin!
+Tiina: Hei! Onko tämä suomen kurssi?<br>
+Mikko: Joo, tämä on Suomi 1.<br>
+Tiina: Kiva! Onko tämä paikka vapaa?<br>
+Mikko: On.<br>
+Tiina: Minä olen Tiina. Kuka sinä olet?<br>
+Mikko: Minä olen Mikko. Hauska tutustua!<br>
+Tiina: Kiitos, samoin!<br>
 
-Anna: Moi Mikko! Mitä kuuluu?
-Mikko: Terve Anna! Minulle kuuluu hyvää, entä sinulle?
-Anna: Ihan hyvää, kiitos.
+Anna: Moi Mikko! Mitä kuuluu?<br>
+Mikko: Terve Anna! Minulle kuuluu hyvää, entä sinulle?<br>
+Anna: Ihan hyvää, kiitos.<br>
 
-Opettaja: Hei ja tervetuloa suomen kurssille! Tämä on Suomi 1 ja minä olen opettaja. Minun nimi on Tuula Lehtonen.
-Tiina: Anteeksi, miten se kirjoitetaan?
-Opettaja: Kirjoitetaan T-U-U-L-A ja sukunimi L-E-H-T-O-N-E-N.
-Tiina: Okei, kiitos.
-Opettaja: Kurssipäivät ovat tiistai ja torstai. Kurssi on kello 17-19.
+Opettaja: Hei ja tervetuloa suomen kurssille! Tämä on Suomi 1 ja minä olen opettaja. Minun nimi on Tuula Lehtonen.<br>
+Tiina: Anteeksi, miten se kirjoitetaan?<br>
+Opettaja: Kirjoitetaan T-U-U-L-A ja sukunimi L-E-H-T-O-N-E-N.<br>
+Tiina: Okei, kiitos.<br>
+Opettaja: Kurssipäivät ovat tiistai ja torstai. Kurssi on kello 17-19.<br>
 
